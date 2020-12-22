@@ -7,4 +7,4 @@
 /build
 /captures
 .externalNativeBuild
-src/main/assets/e2t.db
+app/src/main/assets/e2t.db
